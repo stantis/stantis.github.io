@@ -11,7 +11,7 @@ title                    : "Apparently every academic needs a website"
 title_separator          : "-"
 name                     : &name "Chris Stantis"
 description              : &description "Archaeologist and Data Lover"
-url                      : https://stantis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://stantis.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stantis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,8 +87,8 @@ author:
   employer         : "Bournemouth University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.au/citations?hl=en&user=th7mXK0AAAAJ"
-  email            : "chris.stantis@gmail.com
-  researchgate     :  "https://www.researchgate.net/profile/Chris_Stantis"
+  email            : "chris.stantis@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Chris_Stantis"
   uri              :
   bitbucket        :
   codepen          :
